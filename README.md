@@ -1,3 +1,3 @@
 # node-api
 
-- [nmatei](https://github.com/nmatei/node-api)
+- [from Matei Nicolae](https://github.com/nmatei/node-api)
