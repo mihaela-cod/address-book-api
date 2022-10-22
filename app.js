@@ -9,7 +9,6 @@ var indexRouter = require("./routes/index");
 var usersRouter = require("./routes/users");
 var teamsDBRouter = require("./routes/teams-db");
 var teamsRouter = require("./routes/teams-json");
-var teamsRouter = require("./routes/contact-data");
 
 var app = express();
 
@@ -35,8 +34,7 @@ function processingSimulate(req, res, next) {
     next();
   }, wait);
 }
-app.use("/contact-data", processingSimulate, teamsRouter);
-//app.use("/teams-json", processingSimulate, teamsRouter);
+app.use("/teams-json", processingSimulate, teamsRouter);
 //app.use("/teams-json", teamsRouter);
 
 // catch 404 and forward to error handler
