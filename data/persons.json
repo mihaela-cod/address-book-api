@@ -16,22 +16,6 @@
     "iban": "RO11SFRW17Z36D5P3B144K3P"
   },
   {
-    "id": "2",
-    "photo": "https://www.random-name-generator.com/images/faces/female-white/36.jpg",
-    "name": "Brândușa Manolache",
-    "company": "AMADEUS IT",
-    "branches": "București",
-    "address": "Str. Henri Coandă nr. 3",
-    "department": "Secretariat",
-    "compartment": "",
-    "position": "Secretară",
-    "floorNumber": "1",
-    "phoneNumber": "0779521844",
-    "email": "branhe@amadeus.rx",
-    "birthday": "1999-03-01",
-    "iban": "RO78CXOV820NTUSTD566997K"
-  },
-  {
     "id": "3",
     "photo": "https://www.random-name-generator.com/images/faces/female-white/41.jpg",
     "name": "Corina Dumitru",
@@ -142,22 +126,6 @@
     "email": "sergiucu@amadeus.rx",
     "birthday": "1978-12-29",
     "iban": "RO50KRZBC90509KK431468FV"
-  },
-  {
-    "id": "10",
-    "photo": "https://www.random-name-generator.com/images/faces/male-white/31.jpg",
-    "name": "Emilian Iancu",
-    "company": "AMADEUS IT",
-    "branches": "București",
-    "address": "Str. Henri Coandă nr. 3",
-    "department": "Informatica",
-    "compartment": "Dezvoltare Software",
-    "position": "Analist programator",
-    "floorNumber": "3",
-    "phoneNumber": "0276619124",
-    "email": "emilincu@amadeus.rx",
-    "birthday": "1970-06-05",
-    "iban": "RO10LFIMR622475K3ATA58YX"
   },
   {
     "id": "11",
